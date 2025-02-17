@@ -314,20 +314,18 @@ section {
     display: flex;
 }
 
-/* .about-pic {
-    border-radius: 2rem;
-} */
-
 .about-pic {
+    border-radius: 2rem;
+}
+
+/* .about-pic {
     width: 100%;
     max-width: 400px;
-    /* Ensures it doesn’t get too large */
     height: auto;
     border-radius: 2rem;
     display: block;
     margin: 0 auto;
-    /* Centering */
-}
+} */
 
 .arrow {
     position: absolute;
