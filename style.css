@@ -471,15 +471,3 @@ footer {
 footer p {
     text-align: center;
 }
-
-/* Media Query for Mobile Screens */
-@media screen and (max-width: 768px) {
-    .section__pic-container {
-        max-width: 80%;
-        /* Adjust width for smaller screens */
-    }
-
-    .about-pic {
-        max-width: 90%;
-    }
-}
